@@ -9,10 +9,12 @@ This repository holds publication-ready, plain-Markdown copies of INDDEXA's **pu
 | Version | Full document title | Status | Published | Canonical URL |
 | --- | --- | --- | --- | --- |
 | V1.0 | INDDEXA Research Methodology — Version 1.0 | Previous version (retained for reference) | 2026-11-17 (last updated 2026-11-19) | https://inddexa.com/methodology/V1.0/ |
-| V1.1 | INDDEXA Research Methodology — Version 1.1 (Revised) | Current | 2026-11-22 | https://inddexa.com/methodology/ |
+| V1.1 | INDDEXA Research Methodology — Version 1.1 (Revised) | **Current version** | 2026-11-22 | https://inddexa.com/methodology/V1.1/ |
+
+> **Cite the versioned URL, not the channel page.** Each version has its own permanent address whose path segment is the version number (`/methodology/V1.0/`, `/methodology/V1.1/`). The channel page `https://inddexa.com/methodology/` always displays the **current** version (now V1.1) and will display newer versions when they are published, so it is not a stable reference for any single version.
 
 - [INDDEXA Research Methodology — Version 1.0](https://inddexa.com/methodology/V1.0/) — the first complete public statement of the method.
-- [INDDEXA Research Methodology — Version 1.1 (Revised)](https://inddexa.com/methodology/V1.1/) — the current revised edition. The same content is served at the canonical [Methodology page](https://inddexa.com/methodology/).
+- [INDDEXA Research Methodology — Version 1.1 (Revised)](https://inddexa.com/methodology/V1.1/) — the current version, as of 2026-11-22.
 
 ## Files in this repository
 

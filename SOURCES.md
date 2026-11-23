@@ -27,7 +27,9 @@ Each version was checked against the published site; all returned **HTTP 200**:
 
 - https://inddexa.com/methodology/V1.0/ — page title "V1.0 Research Methodology"
 - https://inddexa.com/methodology/V1.1/ — page title "V1.1 Research Methodology"
-- https://inddexa.com/methodology/ — canonical page; serves the V1.1 content
+- https://inddexa.com/methodology/ — channel page; displays the **current** version (V1.1 at extraction time). It is not a stable citation target for a specific version.
+
+Link convention (2026-11-23, owner ruling): every methodology reference must use the versioned address whose path segment is the version number — `/methodology/V1.0/`, `/methodology/V1.1/`. The channel page `/methodology/` must not be used as a citation target because its content changes when a new version becomes current. All URLs above were re-checked and return HTTP 200 individually (the channel page returns 200 directly, serving the current version; it does not issue an HTTP redirect).
 
 Distinctive phrases from each D1 `body_md` were found verbatim in the corresponding live page HTML — for example "Later versions will be published at their own versioned URL" on V1.0, and "A revision differs from an upgrade", "no new canonical URL" and "Prepared by INDDEXA Research Department" on V1.1. This confirms the D1 rows are the published source rather than unpublished drafts.
 
